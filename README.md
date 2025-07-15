@@ -1,2 +1,2 @@
 # Gerador-de-senhas-Demacia
-Pagina de Geração de Senhas com Python e JavaScript.#
+Pagina de Geração de Senhas com Python e JavaScript
