@@ -10,7 +10,6 @@ CORS(app)
 def gerar_senha():
     data = request.json
 
-    tamanho = int(data.get("tamanho", 12))
     usar_maiusculas = data.get("maiusculas", True)
     usar_numeros = data.get("numeros", True)
     usar_simbolos = data.get("simbolos", True)
